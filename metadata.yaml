@@ -1,0 +1,29 @@
+_repo: '---_24272'
+_version: 0.1.0
+alternative_title: Shang Han Lun
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Zhang, Zhongjing, active 168-196
+    alias: 張仲景
+    gutenberg_agent_id: '26372'
+    url: http://www.gutenberg.org/2009/agents/26372
+description: ''
+gutenberg_issued: '2008-01-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24272'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Medicine, Chinese -- Terminology'
+- !lcsh 'Medicine, Ancient'
+- !lcc 'R'
+- !lcsh 'Medicine, Chinese -- Formulae, receipts, prescriptions'
+- !lcsh 'Medicine, Chinese -- Early works to 1800'
+title: 傷寒論
+url: http://www.gutenberg.org/ebooks/24272
